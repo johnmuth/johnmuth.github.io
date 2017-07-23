@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ## Trying out Jekyll + GitHub Pages
 
